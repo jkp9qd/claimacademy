@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace Week1
 {
-    public class Program
+    internal class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
-
         }
     }
 }
