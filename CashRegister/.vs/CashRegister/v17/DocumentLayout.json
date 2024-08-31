@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ProgrammingP\\source\\repos\\CashRegister\\",
+  "WorkspaceRootPath": "C:\\Users\\ProgrammingP\\source\\repos\\claimacademy\\CashRegister\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D138CD2-561C-49AE-B072-91D57DC8BF6C}|CashRegister\\CashRegister.csproj|c:\\users\\programmingp\\source\\repos\\cashregister\\cashregister\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D138CD2-561C-49AE-B072-91D57DC8BF6C}|CashRegister\\CashRegister.csproj|c:\\users\\programmingp\\source\\repos\\claimacademy\\cashregister\\cashregister\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D138CD2-561C-49AE-B072-91D57DC8BF6C}|CashRegister\\CashRegister.csproj|solutionrelative:cashregister\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,24 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ProgrammingP\\source\\repos\\CashRegister\\CashRegister\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ProgrammingP\\source\\repos\\claimacademy\\CashRegister\\CashRegister\\Program.cs",
               "RelativeDocumentMoniker": "CashRegister\\Program.cs",
-              "ToolTip": "C:\\Users\\ProgrammingP\\source\\repos\\CashRegister\\CashRegister\\Program.cs",
+              "ToolTip": "C:\\Users\\ProgrammingP\\source\\repos\\claimacademy\\CashRegister\\CashRegister\\Program.cs",
               "RelativeToolTip": "CashRegister\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-21T22:48:23.504Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
