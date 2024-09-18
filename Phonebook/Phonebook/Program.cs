@@ -10,25 +10,43 @@ namespace Phonebook
     {
         static void Main(string[] args)
         {
-            // User input 
 
             Console.WriteLine("Welcome to PotterEnterprise Phonebook");
-            Console.WriteLine("Add your First Name Here");
+            Console.WriteLine("Select Operation");
+            Console.WriteLine("1. Add Contact");
+            Console.WriteLine("2. Display Contact by Number");
+            Console.WriteLine("3. View All Contacts");
+            Console.WriteLine("4. Search For Contacts By Name");
+            Console.WriteLine("5. Exit");
 
-            string firstname = Console.ReadLine();
-            Console.WriteLine(firstname);
 
-            Console.WriteLine("Add your Last Name Here");
+            var userInput = Console.ReadLine();
 
-            string lastname = Console.ReadLine();
-            Console.WriteLine(lastname);
+            var phoneBook = new PhoneBook();
 
-            Console.WriteLine("Add your Phone Number Here");
+            switch (userInput) 
+            {
+                case "1":
+                    Console.WriteLine("Contact Name:");
+                    var name = Console.ReadLine();
+                    Console.WriteLine("Contact Number");
+                    var number = Console.ReadLine();
+                    break;
+                case "2":
+                    break;
+                case "3":
+                    break;
+                case "4":
+                    break;
+                case "5":
+                    break;
+                default:
+                    Console.WriteLine("Select Valid Operation");
+                    break;
+            }
 
-            string phonenumber = Console.ReadLine();
-            Console.WriteLine(phonenumber);
 
-            Console.WriteLine("Your Full Name is : " + firstname);
+
 
         }
     }
