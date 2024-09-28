@@ -102,11 +102,13 @@ h2{
 .fa-linkedin {
     background: #00b6cf;
     color: white;
+    border-radius: 100px;
   }
 
 .fa-github {
     background: #00b6cf;
     color: white;
+    border-radius: 100px;
   }
 
 .fa:hover {
